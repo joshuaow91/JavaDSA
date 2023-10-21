@@ -1,4 +1,4 @@
-package LinkedList.Constructor;
+package LinkedList;
 
 public class Main {
 
